@@ -11,7 +11,7 @@ Adobe palette based on Chris Kempson's [Base16][1] colour scheme, supporting Pho
 1. Download  `Base16.aco`
 2. Copy file to your color swatches directory
 
-Alternatively you can import either `Base16.aco` or `Base16.ase` from the color swatch load dialog 
+Alternatively you can import either `Base16.aco` or `Base16.ase` via the color swatch load dialog 
 
 ## Illustrator
 
