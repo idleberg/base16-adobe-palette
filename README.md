@@ -1,4 +1,4 @@
-# Base16 for Adobe color swatches
+# Base16 Adobe color swatches
 
 Adobe color swatches based on Chris Kempson's [Base16][1] scheme.
 
