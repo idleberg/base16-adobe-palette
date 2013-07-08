@@ -13,7 +13,7 @@ Alternatively you can import either `Base16.aco` or `Base16.ase` from the color 
 
 ## Illustrator
 
-1. Download either `Base16.ase`
+1. Download `Base16.ase`
 2. Import the file via the color swatch load dialog
 
 ## License
