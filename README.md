@@ -1,6 +1,6 @@
 # Base16 Adobe color swatches
 
-Adobe color swatches based on Chris Kempson's [Base16][1] scheme.
+Adobe color swatches based on Chris Kempson's [Base16][1] scheme, supporting Photoshop, Illustrator and compatible software
 
 ## Installation
 
