@@ -1,0 +1,19 @@
+# Base16 Builder scheme by Jan T. Sott
+scheme: "Tomorrow Night - Eighties"
+author: "Chris Kempson"
+base00: "000000" #  ---- (unused)
+base01: "2D2D2D" #  ---
+base02: "393939" #  --
+base03: "515151" #  -
+base04: "6A6A6A" #  +
+base05: "999999" #  ++
+base06: "CCCCCC" #  +++
+base07: "ffffff" #  ++++ (unused)
+base08: "f2777a" #	red
+base09: "f99157" #	orange
+base0A: "ffcc66" #	yellow
+base0B: "99cc99" #	green
+base0C: "66cccc" #	aqua
+base0D: "6699cc" #	blue
+base0E: "a16a94" #	purple
+base0F: "d27b53" #	brown
